@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NDnvBc/co8NLBqCGSNQc5ee1SN1z0RuexQiF+a/cG/r5molvpFktqVvC76Q53IG10KyH3A6X0XdoFD2y7ImovA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\source\\repos\\DbService\\dbService\\DbService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
